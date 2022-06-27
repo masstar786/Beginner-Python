@@ -1,4 +1,4 @@
-<h1> Beginner-Python </h1>
+Beginner-Python
 My journey at learning Python from scratch through projects that can help me understand more about the topic. 
 
 ![image](https://user-images.githubusercontent.com/61000672/175947382-f6f1f493-4d02-4563-bb13-2f3b348041d7.png)
